@@ -5,3 +5,8 @@ We have used express.js and node.js for back-end and HTML CSS and JavaScript for
 
 To run the server type command
 nodemon app.js
+
+
+
+https://github.com/shivi11g/Equinox_Project/assets/99272893/3c98e275-5005-460b-8845-49be1fcc3bbd
+
